@@ -7,7 +7,8 @@
 - 📱 Phone: +91 7767897343
 - 🔗 LinkedIn: [Amit Sharma](www.linkedin.com/in/amit-sharma-294642251)
 - 🐙 GitHub: [AmitOmjeeSharma](https://github.com/AmitOmjeeSharma)
-- 📊 NovyPro: [Amit Sharma](https://www.novypro.com/profile_projects/sharmaji99)  
+- 📊 NovyPro: [Amit Sharma](https://www.novypro.com/profile_projects/sharmaji99)
+- 🐦 Twitter: [@AmitOmjeeSharma](https://twitter.com/AmitOmjeeSharma)
 
 ## Summary
 I am a highly motivated individual seeking opportunities to leverage my programming and visualization skills, along with my creative mindset, analytical thinking, and problem-solving ability. I am passionate about continuous learning and am eager to contribute value to organizations that foster growth and skill development.
