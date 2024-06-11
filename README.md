@@ -5,7 +5,7 @@
 - 📍 Location: Chandrapur, Maharashtra, India
 - ✉️ Email: amit.omjee.sharma@gmail.com
 - 📱 Phone: +91 7767897343
-- 🔗 LinkedIn: [Amit Sharma](https://www.linkedin.com/in/amit--omjee-sharma/)
+- 🔗 LinkedIn: [Amit Sharma](https://www.linkedin.com/in/amit-omjee-sharma/)
 - 🐙 GitHub: [AmitOmjeeSharma](https://github.com/AmitOmjeeSharma)
 - 📊 NovyPro: [Amit Sharma](https://www.novypro.com/profile_projects/sharmaji99)
 - 🐦 Twitter: [@AmitOmjeeSharma](https://twitter.com/AmitOmjeeSharma)
