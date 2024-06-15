@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Omjee Sharma! 👋
 
-![Banner](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![Banner](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## About Me
 💻 **Python | SQL | Data Analyst | Data Visualization | Business Analyst**  
@@ -16,7 +16,7 @@
 ## Summary
 I am a highly motivated individual seeking opportunities to leverage my programming and visualization skills, along with my creative mindset, analytical thinking, and problem-solving ability. I am passionate about continuous learning and am eager to contribute value to organizations that foster growth and skill development.
 
-![Working](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy-downsized.gif)
+![Working](https://media.giphy.com/media/1BfV9h8fN4m7ytc6cz/giphy.gif)
 
 ## 🎓 Academic Details
 - **Post Graduation Diploma in Big Data Analytics,** C-DAC Hyderabad [2023]
@@ -40,7 +40,7 @@ I am a highly motivated individual seeking opportunities to leverage my programm
 - 🎓 **Training:** Software training from Hind Softwares Pvt. Ltd. Nagpur | 2019
 - 🗣️ **Languages:** English, Hindi, Bhojpuri, Marathi
 
-![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy-downsized.gif)
+![Coding](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
 <!---
 AmitOmjeeSharma/AmitOmjeeSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
