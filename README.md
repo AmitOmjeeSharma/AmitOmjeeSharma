@@ -16,7 +16,7 @@
 ## Summary
 I am a highly motivated individual seeking opportunities to leverage my programming and visualization skills, along with my creative mindset, analytical thinking, and problem-solving ability. I am passionate about continuous learning and am eager to contribute value to organizations that foster growth and skill development.
 
-![Working](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+![Working](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy-downsized.gif)
 
 ## 🎓 Academic Details
 - **Post Graduation Diploma in Big Data Analytics,** C-DAC Hyderabad [2023]
@@ -27,6 +27,8 @@ I am a highly motivated individual seeking opportunities to leverage my programm
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)  
 - **Python Libraries:**  
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-2C8EBB?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+- **Machine Learning:**  
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 - **Databases:**  
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 - **Operating Systems:**  
@@ -38,7 +40,7 @@ I am a highly motivated individual seeking opportunities to leverage my programm
 - 🎓 **Training:** Software training from Hind Softwares Pvt. Ltd. Nagpur | 2019
 - 🗣️ **Languages:** English, Hindi, Bhojpuri, Marathi
 
-![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy-downsized.gif)
 
 <!---
 AmitOmjeeSharma/AmitOmjeeSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
