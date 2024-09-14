@@ -29,32 +29,43 @@ I am a dedicated **Data Analyst** with a strong background in **Python, SQL, and
 ## 💼 **Technical Skills**
 
 ### Programming & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![IBM SPSS](https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat&logo=ibm&logoColor=white)  
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM SPSS">
+</div>
 
 ### Python Libraries  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-2C8EBB?style=flat&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Matplotlib-2C8EBB?style=flat&logo=python&logoColor=white" alt="Matplotlib" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn">
+</div>
 
 ### Machine Learning  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+</div>
 
 ### Databases  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
 
 ### Operating Systems  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)  
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux">
+</div>
 
 ---
 
