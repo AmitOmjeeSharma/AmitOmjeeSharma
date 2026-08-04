@@ -1,91 +1,163 @@
-# Hi there, I'm Amit Omjee Sharma! 👋
+<!-- ========================================================= -->
+<!--               AMIT SHARMA | GITHUB PROFILE                -->
+<!-- ========================================================= -->
 
-## About Me
-💻 **Python | SQL | Data Analyst | Data Visualization | Business Analyst**  
-🌍 **Location:** Chandrapur, Maharashtra, India  
-✉️ **Email:** [amit.omjee.sharma@gmail.com](mailto:amit.omjee.sharma@gmail.com)  
-📱 **Phone:** +91 7767897343  
-🔗 **Portfolio:** [Amit Sharma](https://amitomjeesharma.github.io/)  
-💼 **LinkedIn:** [Amit Omjee Sharma](https://www.linkedin.com/in/amit-omjee-sharma/)  
-🐙 **GitHub:** [AmitOmjeeSharma](https://github.com/AmitOmjeeSharma)  
-📊 **NovyPro:** [Amit Sharma](https://www.novypro.com/profile_projects/sharmaji99)  
-🐦 **Twitter:** [@AmitOmjeeSharma](https://twitter.com/AmitOmjeeSharma)  
+<div align="center">
 
----
+# Amit Sharma
 
-## 🚀 **Professional Summary**  
-I am a dedicated **Data Analyst** with a strong background in **Python, SQL, and Data Visualization**. My passion for analyzing complex data sets and deriving actionable insights allows me to offer unique perspectives and solutions. I am continuously honing my technical skills to align with the evolving needs of the data industry, and I thrive in environments that encourage innovation and growth.
+### Data Analyst | SQL • Python • Power BI
 
----
+Transforming complex data into meaningful insights through analytics, visualisation and business intelligence.
 
-## 🎓 **Education**  
-- **Post Graduation Diploma in Big Data Analytics**  
-  *C-DAC Hyderabad (2023)*  
-- **B-Tech in Electronics & Communication Engineering**  
-  *Rajiv Gandhi College of Engineering, Research and Technology (2022)*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4285F4&center=true&vCenter=true&width=850&lines=Building+Interactive+Power+BI+Dashboards;Analysing+Data+with+SQL+and+Python;Transforming+Data+into+Business+Insights;Creating+Reports+that+Support+Better+Decisions;Always+Learning+Something+New" alt="Typing SVG"/>
 
----
+<br>
 
-## 💼 **Technical Skills**
+<a href="https://amitomjeesharma.github.io">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge"/>
+</a>
 
-### Programming & Tools  
+<a href="https://www.linkedin.com/in/amit-omjee-sharma">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM SPSS">
-</div>
+<a href="mailto:amit.omjee.sharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Python Libraries  
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Matplotlib-2C8EBB?style=flat&logo=python&logoColor=white" alt="Matplotlib" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn">
-</div>
+<a href="https://www.novypro.com/profile_projects/sharmaji99">
+<img src="https://img.shields.io/badge/NovyPro-Dashboards-orange?style=for-the-badge"/>
+</a>
 
-### Machine Learning  
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-</div>
-
-### Databases  
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-</div>
-
-### Operating Systems  
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux">
 </div>
 
 ---
 
-## 🏅 **Key Achievements & Roles**  
-- **President of Department** – RCERT, 2022  
-  Led the department by organizing events like sports tournaments and interview workshops, building a collaborative and competitive environment.
-- **Software Training** – Hind Softwares Pvt. Ltd., Nagpur, 2019  
-  Completed extensive training focused on software development and management.
+## 👋 About Me
+
+I'm an early-career **Data Analyst** with internship experience at **Red Dot Foundation Global**, **Physics Wallah**, and **The Sparks Foundation**.
+
+I enjoy solving business problems with data by transforming raw datasets into clear, actionable insights using **SQL**, **Python**, **Power BI**, and **Excel**.
+
+My interests include **Business Intelligence**, **Data Visualisation**, **Dashboard Development**, and **Data Storytelling**, with a focus on creating solutions that support better decision-making.
 
 ---
 
-## 🌐 **Languages**
-- **English**  
-- **Hindi**  
-- **Bhojpuri**  
-- **Marathi**
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+### Business Intelligence & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+
+### Python Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-Feel free to explore my projects and connect with me on various platforms!
+# 🚀 Featured Projects
+
+| Project | What it demonstrates | Tech Stack |
+|:---------|:--------------------|:-----------|
+| 📊 **Retail Sales Analytics Dashboard** | Sales trend analysis and interactive business reporting | SQL • Power BI • Excel |
+| 📈 **CRM Sales Analytics Dashboard** | KPI tracking, executive dashboards and business intelligence | Power BI |
+| 🏨 **Hotel Booking Analytics** | Exploratory data analysis and customer behaviour insights | Python • Pandas |
+| 🏏 **IPL Data Analytics Dashboard** | Interactive sports analytics and visual storytelling | Power BI |
+| 🤖 **Telegram Scam Detection** | NLP-based malicious message classification | Python • Scikit-learn |
+| 📉 **Stock Price Prediction** | Machine learning with technical indicators and sentiment analysis | Python • TensorFlow |
+
+> 🌐 **Portfolio:** https://amitomjeesharma.github.io  
+> 📊 **Interactive Dashboards:** https://www.novypro.com/profile_projects/sharmaji99  
+> 📂 **View All Repositories:** https://github.com/AmitOmjeeSharma?tab=repositories
 
 ---
 
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmitOmjeeSharma&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitOmjeeSharma&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=AmitOmjeeSharma&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmitOmjeeSharma&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL for Analytics
+- Power BI (DAX & Data Modelling)
+- Google BigQuery
+- Data Engineering Fundamentals
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:amit.omjee.sharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amit-omjee-sharma">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://amitomjeesharma.github.io">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.novypro.com/profile_projects/sharmaji99">
+<img src="https://img.shields.io/badge/NovyPro-Dashboards-orange?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+I'm always interested in opportunities involving **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
+
+Feel free to explore my repositories or connect with me.
+
+⭐ If you find my work interesting, consider starring a repository.
+
+</div>
