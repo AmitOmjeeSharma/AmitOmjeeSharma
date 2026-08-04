@@ -26,9 +26,9 @@ Transforming complex data into meaningful insights through analytics, visualisat
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.novypro.com/profile_projects/sharmaji99">
+<!-- <a href="https://www.novypro.com/profile_projects/sharmaji99">
 <img src="https://img.shields.io/badge/NovyPro-Dashboards-orange?style=for-the-badge"/>
-</a>
+</a> -->
 
 </div>
 
