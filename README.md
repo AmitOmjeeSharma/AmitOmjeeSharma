@@ -90,45 +90,61 @@ My interests include **Business Intelligence**, **Data Visualisation**, **Dashbo
 
 ---
 
----
+# 📊 GitHub Activity
 
-# 📊 GitHub Statistics
+<p align="center">
 
-<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmitOmjeeSharma&theme=github-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmitOmjeeSharma&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitOmjeeSharma&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
+<p align="center">
 
 <img width="75%" src="https://streak-stats.demolab.com?user=AmitOmjeeSharma&theme=github-dark-blue&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmitOmjeeSharma&theme=github-compact&hide_border=true"/>
-
-</div>
 
 ---
----
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Currently Exploring
 - Advanced SQL for Analytics
 - Power BI (DAX & Data Modelling)
 - Google BigQuery
+- Dashboard Optimisation
+- Business Intelligence
+
+
+</td>
+
+<td width="50%">
+
+### Future Goals
+- Google Cloud (BigQuery)
 - Data Engineering Fundamentals
+- ETL Pipelines
+- Advanced Python
+- Interactive Analytics
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:amit.omjee.sharma@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -139,14 +155,14 @@ My interests include **Business Intelligence**, **Data Visualisation**, **Dashbo
 </a>
 
 <a href="https://amitomjeesharma.github.io">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.novypro.com/profile_projects/sharmaji99">
 <img src="https://img.shields.io/badge/NovyPro-Dashboards-orange?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -154,10 +170,8 @@ My interests include **Business Intelligence**, **Data Visualisation**, **Dashbo
 
 ### Thanks for visiting! 👋
 
-I'm always interested in opportunities involving **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
+I'm always interested in opportunities in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
 
-Feel free to explore my repositories or connect with me.
-
-⭐ If you find my work interesting, consider starring a repository.
+If you find my work interesting, feel free to connect or ⭐ a repository.
 
 </div>
